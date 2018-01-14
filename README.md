@@ -1,3 +1,3 @@
 # Gitチュートリアル
-- featurer-A
+- feature-A
 
